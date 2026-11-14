@@ -1,3 +1,5 @@
+[English](README.md) | **Русский**
+
 # Привет! 👋 Меня зовут Даниил
 
 **Backend / Fullstack Developer | .NET Ecosystem**
