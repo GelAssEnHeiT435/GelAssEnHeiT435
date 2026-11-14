@@ -53,7 +53,7 @@ I build backend systems and full-stack applications, primarily using C# and the 
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 ![Scalar](https://img.shields.io/badge/Scalar-202020?style=flat-square&logo=scalar&logoColor=white)
 
-**Machine Learning & Data Science**
+**Machine Learning & AI**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
