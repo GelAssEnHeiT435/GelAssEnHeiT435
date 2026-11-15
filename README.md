@@ -17,7 +17,6 @@ I build backend systems and full-stack applications, primarily using C# and the 
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Npgsql](https://img.shields.io/badge/Npgsql-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=flat-square&logo=xunit&logoColor=white)
-![Refit](https://img.shields.io/badge/Refit-512BD4?style=flat-square)
 ![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 **Frontend Development**
